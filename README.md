@@ -11,6 +11,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with 
 - 💬 Ask me about Python for data science, IBM Cloud
 - 📫 How to reach me: chinwe.vivian.ononiwu@gmail.com
-- 😄 Pronouns: She/Her
+- 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I am a self proclaimed philomath
 -->
