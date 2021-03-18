@@ -9,4 +9,4 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I am a self proclaimed philomath
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chivian)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chivian&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
