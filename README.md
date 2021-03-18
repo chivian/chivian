@@ -1,4 +1,4 @@
-
+<img src= 'Banner two.png' />
 
 - 🔭 I’m currently working on data science for tax 
 - 🌱 I’m currently learning Machine learning with IBM cloud
@@ -9,6 +9,4 @@
 - 😄 Pronouns: She/Her.
 - ⚡ Fun fact: I am a self proclaimed philomath
 
-
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=chivian&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
