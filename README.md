@@ -1,5 +1,10 @@
 <img src= 'Banner two.png' />
 
+### Hello World! Thanks for stopping by!! 
+#### I am a business woman who ditched the fast paced world of enterprise sales and govenment contracts for my one true passion: Using computer alogorithims to solve problems. I have a background in electrical/electronics engineering amd ICT but best of all I am a mummy!!!
+
+#### A few housekeeping notes.........
+
 - 🔭 I’m currently working on improving tax governance and regulation with data science and analytics
 - 🌱 I’m currently learning everything!! But most especiallyMachine learning with IBM cloud
 - 👯 I’m looking to collaborate on data science and engineering open source projects
@@ -10,7 +15,7 @@
 - ⚡ Fun facts: I am a self proclaimed philomath, love yoga, taichi, and discussing alternative ideas........
 
 
-## Connect With Me.......
+### Connect With Me.......
 
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
