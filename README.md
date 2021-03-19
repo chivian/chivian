@@ -5,8 +5,8 @@
 
 #### A few housekeeping notes.........
 
-- 🔭 I’m currently working on improving tax governance and regulation with data science and analytics
-- 🌱 I’m currently learning everything!! But most especiallyMachine learning with IBM cloud
+- 🔭 I’m currently working on improving tax governance, processes and regulation in emerging markets with data science and analytics
+- 🌱 I’m currently learning everything!! But most especially machine learning with IBM cloud
 - 👯 I’m looking to collaborate on data science and engineering open source projects
 - 🤔 I’m looking for help with: A lot but would get back to you in a few......
 - 💬 Ask me about Python for data science, IBM Cloud
