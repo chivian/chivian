@@ -1,7 +1,7 @@
 <img src= 'Banner two.png' />
 
 ### Hello World! Thanks for stopping by!! 
-#### I am a business woman who ditched a 9 year career in the fast paced world of enterprise sales and govenment contracts for my one true passion: Using computer alogorithims to solve problems of all kind. I have an extensive  background in electrical/electronics engineering amd ICT but best of all I am a mummy!!!
+#### I am a business woman who ditched a 9 year career in the fast paced world of enterprise sales in both the public and private sector for my one true passion: Using computer alogorithims to solve problems of all kind. I have an extensive  background in electrical/electronics engineering amd ICT but best of all I am a mummy!!!
 
 #### Ok now before I bore you with stories on how my daughter is a genius and is so adorable , A few housekeeping notes.........
 
