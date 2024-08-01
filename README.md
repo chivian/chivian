@@ -1,4 +1,4 @@
-<img src= 'Banner two.png' />
+<img src= 'Banner4.png' />
 
 ### Hello World! Thanks for stopping by!! 
 #### I am a data scientist and machine learning engineer who ditched a 10-year-plus career in the fast-paced world of enterprise sales in both the public and private sectors, for my one true passion: Using computer algorithms to solve problems of all kinds, especially in the public sector and civil societies. I have an extensive background in electrical/electronics engineering, business development, and data science, and best of all I am a mummy!!!
