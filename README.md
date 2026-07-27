@@ -3,12 +3,12 @@
 ### Hello World! Thanks for stopping by!! 
 #### I am a data scientist and machine learning engineer who ditched a 10-year-plus career in the fast-paced world of enterprise sales in both the public and private sectors, for my one true passion: Using computer algorithms to solve problems of all kinds, especially in the public sector and civil societies. I have an extensive background in electrical/electronics engineering, business development, and data science, and best of all I am a mummy!!!
 
-#### Ok now before I bore you with stories on how my daughter is a genius and is so adorable, A few housekeeping notes.........
+#### Ok now A few housekeeping notes.........
 
 - 🔭 I’m currently working on improving tax governance, processes, and regulation in emerging markets with data science, machine learning  and advanced analytics
-- 🌱 I’m currently learning everything!! But most especially machine learning with IBM cloud
-- 👯 I’m looking to collaborate on data science, machine learning, and gen AI open-source projects
-- 🤔 I’m looking for help with: deploying machine learning models straight into production ......
+- 🌱 I’m currently learning everything!! But most especially Edge AI
+- 👯 I’m looking to collaborate on data science, machine learning, and  AI open-source projects
+- 🤔 I’m looking for help with: research collaborations ......
 - 💬 Ask me about Python for data science, machine learning, IBM Cloud, and analytics for tax administrations....
 - 📫 How to reach me: chinwe.vivian.ononiwu@gmail.com
 - 😄 Pronouns: She/Her.
