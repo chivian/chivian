@@ -57,10 +57,10 @@
 
 [1]: http://www.twitter.com/vivianononiwu
 [2]: http://www.facebook.com/chinwe.vivian.ononiwu/
-[3]: https://www.youtube.com/channel/UC6155canAX-nGzc7VI7Zz2A
-[4]: http://chivian-technology.tumblr.com/
+[3]: https://www.youtube.com/@chinwevivianaliyu
+[4]: https://medium.com/chivian-technology
 [5]: http://www.chinwevivianononiwu.com
-[6]: http://www.github.com/chivian
+[6]: https://www.linkedin.com/in/chinwevivianaliyu/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
